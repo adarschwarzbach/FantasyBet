@@ -1,13 +1,14 @@
-# Fantasy Bet
-
-Fantasy Bet is an iOS app that allows users to place bets on a variety of sports events using real-time odds data from the Odds API. The app is built using Swift and integrates with Firebase for authentication and data storage.
+# 🏆Fantasy Bet🏀🏈⚾️
+Fantasy Bet is an iOS app that allows users to place bets virtual bets on a variety of sports events using real-time odds data from the Odds API. The app is built using Swift and integrates with Firebase for authentication and data storage.
 
 ## Features
 
+## Features
+
+- Social functionality to search for other users and see their betting history
+- Place bets and get virtual results based on implied probability from those odds
+- Real-time odds from the Odds API
 - User authentication using Firebase Auth
-- Integration with the Odds API for real-time odds data
-- Ability to place bets on a variety of sports events
-- Track betting history and account balance
 - Integration with Firestore for data storage
 
 ## Screenshots
