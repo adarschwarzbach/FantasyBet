@@ -11,12 +11,12 @@ Fantasy Bet is an iOS app that allows users to place bets virtual bets on a vari
 
 ## Screenshots
 
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/96645075/233811405-5c7725e6-9ef6-4154-88a7-edf9e4495fa4.png" width="250" />
+  <img src="https://user-images.githubusercontent.com/96645075/233811403-15ed0399-6727-4d92-a4ea-8067b649d146.png" width="250" />
+  <img src="https://user-images.githubusercontent.com/96645075/233811406-8efbffa8-e00e-4106-bcb6-01fd1330118f.png" width="250" />
+</p>
 
-![Simulator Screen Shot - iPhone 13 - 2023-04-22 at 15 05 51](https://user-images.githubusercontent.com/96645075/233811405-5c7725e6-9ef6-4154-88a7-edf9e4495fa4.png)
-
-![Simulator Screen Shot - iPhone 13 - 2023-04-22 at 15 02 20](https://user-images.githubusercontent.com/96645075/233811403-15ed0399-6727-4d92-a4ea-8067b649d146.png)
-
-![Simulator Screen Shot - iPhone 13 - 2023-04-22 at 15 02 12](https://user-images.githubusercontent.com/96645075/233811406-8efbffa8-e00e-4106-bcb6-01fd1330118f.png)
 
 ## Usage
 
