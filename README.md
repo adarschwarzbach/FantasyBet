@@ -35,16 +35,13 @@ To use Fantasy Bet, follow these steps:
 
 ## Credits
 
-Fantasy Bet was built by [Your Name](https://github.com/your-username).
+Fantasy Bet was built by [Adar Schwarzbach](https://github.com/adarschwarzbach).
 
 The following open-source libraries were used in the development of this app:
 
 - [Firebase Auth](https://firebase.google.com/docs/auth)
 - [Firebase Firestore](https://firebase.google.com/docs/firestore)
-- [Alamofire](https://github.com/Alamofire/Alamofire)
-- [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
-- [Kingfisher](https://github.com/onevcat/Kingfisher)
-- [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
+
 
 ## License
 
