@@ -8,6 +8,7 @@ Fantasy Bet is an iOS app that allows users to place bets virtual bets on a vari
 - Real-time odds from the Odds API
 - User authentication using Firebase Auth
 - Integration with Firestore for data storage
+- Other features, including browsing available sports events, tracking betting history and account balance, and more.
 
 ## Screenshots
 
@@ -22,10 +23,12 @@ Fantasy Bet is an iOS app that allows users to place bets virtual bets on a vari
 
 To use Fantasy Bet, follow these steps:
 
-1. Sign up for an account using your email and password
-2. Browse the available sports events and odds data
-3. Place a bet on an event using your account balance
-4. View your betting history and account balance on the profile screen
+1. Email [adar.schwarzbach@duke.edu](mailto:adar.schwarzbach@duke.edu) to request a TestFlight code
+2. Once you receive the code, redeem it in the App Store by following these steps:
+   - Open the TestFlight app on your device
+   - Tap on "Redeem"
+   - Enter the TestFlight code and tap on "Redeem"
+3. Install the app on your device from TestFlight
 
 ## Credits
 
