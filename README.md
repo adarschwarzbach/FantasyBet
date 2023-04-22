@@ -3,8 +3,6 @@ Fantasy Bet is an iOS app that allows users to place bets virtual bets on a vari
 
 ## Features
 
-## Features
-
 - Social functionality to search for other users and see their betting history
 - Place bets and get virtual results based on implied probability from those odds
 - Real-time odds from the Odds API
@@ -13,17 +11,12 @@ Fantasy Bet is an iOS app that allows users to place bets virtual bets on a vari
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
 
-## Installation
+![Simulator Screen Shot - iPhone 13 - 2023-04-22 at 15 05 51](https://user-images.githubusercontent.com/96645075/233811405-5c7725e6-9ef6-4154-88a7-edf9e4495fa4.png)
 
-To install Fantasy Bet, follow these steps:
+![Simulator Screen Shot - iPhone 13 - 2023-04-22 at 15 02 20](https://user-images.githubusercontent.com/96645075/233811403-15ed0399-6727-4d92-a4ea-8067b649d146.png)
 
-1. Clone the repository: `git clone https://github.com/your-username/fantasy-bet.git`
-2. Install the required pods: `pod install`
-3. Open the `.xcworkspace` file in Xcode
-4. Build and run the app on a simulator or device
+![Simulator Screen Shot - iPhone 13 - 2023-04-22 at 15 02 12](https://user-images.githubusercontent.com/96645075/233811406-8efbffa8-e00e-4106-bcb6-01fd1330118f.png)
 
 ## Usage
 
