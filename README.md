@@ -20,14 +20,14 @@
 
 ## Usage
 
-To use Fantasy Bet, follow these steps:
+If you are interested in checking out Fantasy Bet, please email me at[adar.schwarzbach@duke.edu](mailto:adar.schwarzbach@duke.edu) to request a TestFlight code.
 
-1. Email [adar.schwarzbach@duke.edu](mailto:adar.schwarzbach@duke.edu) to request a TestFlight code
-2. Once you receive the code, redeem it in the App Store by following these steps:
+Once you receive the code, redeem it by following these steps:
+   - Download TestFlight
    - Open the TestFlight app on your device
    - Tap on "Redeem"
    - Enter the TestFlight code and tap on "Redeem"
-3. Install the app on your device from TestFlight
+   - Install the app on your device from TestFlight
 
 ## Credits
 
@@ -37,10 +37,3 @@ The following open-source libraries were used in the development of this app:
 
 - [Firebase Auth](https://firebase.google.com/docs/auth)
 - [Firebase Firestore](https://firebase.google.com/docs/firestore)
-
-
-## License
-
-Fantasy Bet is released under the [MIT License](LICENSE).
-
-The MIT License is a permissive free software license that permits the reuse of the software in proprietary software or in other free software licenses. This means that the software can be used, modified, distributed, and even sold, without any restrictions or limitations, as long as the original copyright and license notice is included in the software and documentation.
