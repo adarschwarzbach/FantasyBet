@@ -2,7 +2,7 @@
 
 ---
 <!-- ## Fantasy Bet -->
-
+## Fantasy Bet
 ## Features
 
 - Social functionality to search for other users and see their betting history
