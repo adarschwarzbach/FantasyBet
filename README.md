@@ -20,7 +20,7 @@
 
 ## Usage
 
-If you are interested in checking out Fantasy Bet, please email me at[adar.schwarzbach@duke.edu](mailto:adar.schwarzbach@duke.edu) to request a TestFlight code.
+If you are interested in checking out Fantasy Bet, please email me at [adar.schwarzbach@duke.edu](mailto:adar.schwarzbach@duke.edu) to request a TestFlight code.
 
 Once you receive the code, redeem it by following these steps:
    - Download TestFlight
