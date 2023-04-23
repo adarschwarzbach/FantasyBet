@@ -1,4 +1,4 @@
-# Fantasy Bet <img align="center" width="306" alt="fb" src="https://user-images.githubusercontent.com/96645075/233811500-e0a29dbf-794b-430e-a4e0-bd07fa380877.png">
+# Fantasy Bet <img align="right" width="100" alt="fb" src="https://user-images.githubusercontent.com/96645075/233811500-e0a29dbf-794b-430e-a4e0-bd07fa380877.png">
 
 ## Features
 
@@ -42,3 +42,5 @@ The following open-source libraries were used in the development of this app:
 ## License
 
 Fantasy Bet is released under the [MIT License](LICENSE).
+
+The MIT License is a permissive free software license that permits the reuse of the software in proprietary software or in other free software licenses. This means that the software can be used, modified, distributed, and even sold, without any restrictions or limitations, as long as the original copyright and license notice is included in the software and documentation.
