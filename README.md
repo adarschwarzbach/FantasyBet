@@ -1,4 +1,4 @@
-# Fantasy Bet <img align="right" width="306" alt="fb" src="https://user-images.githubusercontent.com/96645075/233811500-e0a29dbf-794b-430e-a4e0-bd07fa380877.png">
+# Fantasy Bet <img align="center" width="306" alt="fb" src="https://user-images.githubusercontent.com/96645075/233811500-e0a29dbf-794b-430e-a4e0-bd07fa380877.png">
 
 ## Features
 
